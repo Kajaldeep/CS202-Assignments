@@ -1,5 +1,13 @@
 # CS202 Programming Assignment 2
 
+## Question:
+
+Implement a SAT solver. Given a formula in the DIMACS representation, your implementation should return:
+1) a model if the formula is satisfiable
+2) report that the formula is unsatisfiable
+You are free to use any language and algorithm (Semantic Tableau, Analytic Tableau, DPLL or a combination).
+
+
 ## SAT Solver:
 
 We have implemented Sat Solving by using backtracking algorithm, recursive function.
